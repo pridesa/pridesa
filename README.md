@@ -10,7 +10,7 @@
 
 <br>  
 
-- 🌱 Atualmente estou aprendendo SQL.
+- 🌱 Atualmente estou aprimorando meus conhecimentos em SQL.
 - ⚡ Curiosity: Sou formada em Sistema de Informação e Administração, apaixonada por dogs e leitura.
 
 <br>  
