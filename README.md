@@ -4,13 +4,13 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-FFF?style=flat-square&logo=Github&logoColor=black&link=https://github.com/pridesa)](https://github.com/pridesa)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscila-de-sa/)](https://www.linkedin.com/in/priscila-de-sa/)
+[![instagram](https://img.shields.io/badge/-Instagram-white?style=flat-square&logo=Instagram&logoColor=05122A?&link=https://instagram.com/peu.indica)](https://instagram.com/peu.indica)
 <!-- [![Yahoo Badge](https://img.shields.io/badge/-Yahoo-c14438?style=flat-square&logo=Yahoo&logoColor=white&link=mailto:priscila.desa@yahoo.com.br)](mailto:priscila.desa@yahoo.com.br)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/pridesa)](https://twitter.com/pridesa) -->
-[![instagram](https://img.shields.io/badge/-Instagram-white?style=flat-square&logo=Instagram&logoColor=05122A?&link=https://instagram.com/peu.indica)](https://instagram.com/peu.indica)
 
 <br>  
 
-- 🌱 Atualmente estou aprimorando meus conhecimentos em SQL.
+- 🌱 Atualmente estou aprimorando meus conhecimentos em SQL, Engenharia e Arquitetura de Software.
 - ⚡ Curiosity: Sou formada em Sistema de Informação e Administração, apaixonada por dogs e leitura.
 
 <br>  
@@ -28,7 +28,7 @@
 
 ![MySql](https://img.shields.io/badge/-mysql-05122A?style=for-the-badge&logo=mysql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&logo=sqlite)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<!-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp; -->
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp; -->
 <!-- ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp; -->
 <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp; -->
