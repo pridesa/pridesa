@@ -4,8 +4,8 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-FFF?style=flat-square&logo=Github&logoColor=black&link=https://github.com/pridesa)](https://github.com/pridesa)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscila-de-sa/)](https://www.linkedin.com/in/priscila-de-sa/)
-[![Yahoo Badge](https://img.shields.io/badge/-Yahoo-c14438?style=flat-square&logo=Yahoo&logoColor=white&link=mailto:priscila.desa@yahoo.com.br)](mailto:priscila.desa@yahoo.com.br)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/pridesa)](https://twitter.com/pridesa)
+<!-- [![Yahoo Badge](https://img.shields.io/badge/-Yahoo-c14438?style=flat-square&logo=Yahoo&logoColor=white&link=mailto:priscila.desa@yahoo.com.br)](mailto:priscila.desa@yahoo.com.br)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/pridesa)](https://twitter.com/pridesa) -->
 [![instagram](https://img.shields.io/badge/-Instagram-white?style=flat-square&logo=Instagram&logoColor=05122A?&link=https://instagram.com/peu.indica)](https://instagram.com/peu.indica)
 
 <br>  
