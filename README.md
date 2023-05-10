@@ -34,9 +34,12 @@
 <!-- ## :book: &nbsp;Conhecimentos/knowledge: -->
 
 <br>
-![Snake animation](https://github.com/pridesa/pridesa/blob/output/github-contribution-grid-snake.svg)
+
 
 <p align="left">
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=pridesa&&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="priscila's stats"/>  <br><br>
 <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pridesa&layout=compact&theme=radical" alt="priscila's most languages"/>  
-</p>
+</p>  
+
+
+![Snake animation](https://github.com/pridesa/pridesa/blob/output/github-contribution-grid-snake.svg)
